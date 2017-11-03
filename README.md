@@ -17,5 +17,11 @@
 10.ESP-8266 wifi模块  
 11.arduino uno R3板  
 12.可变电阻    
+---  
+* 软件平台  
+Arduino IDE  
+Arduino Box  
+windows10  /Ubuntu
+
 
 
