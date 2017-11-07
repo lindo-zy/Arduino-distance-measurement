@@ -13,15 +13,17 @@
 6.usb线  
 7.DHT11 温度湿度模块  
 8.HC-SR04超声波模块  
-9.面包板  
+9.面包板+电源模块  
 10.ESP-8266 wifi模块  
 11.arduino uno R3板  
-12.可变电阻    
+12.220欧姆电阻    
+13.公母线  
+14.1602A l2c显示屏
 ---  
 * 软件平台  
 Arduino IDE  
 Arduino Box  
-windows10  /Ubuntu
+windows10  /Ubuntu 17.10
 
 
 
