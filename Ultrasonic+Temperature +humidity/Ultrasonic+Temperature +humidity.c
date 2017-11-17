@@ -23,14 +23,14 @@ digitalWrite(TrigPin,HIGH);
 delay(1);
 digitalWrite(TrigPin,LOW);
 sr_time=pulseIn(EchoPin,HIGH);
-sr_time=sr_time/1000/1000;  //��ȡʱ��
+sr_time=sr_time/1000/1000;  //获取时间
 return sr_time;
 }
 
 
 void setup()
 {
-    Serial.begin(9600); //���ò�����9600
+    Serial.begin(9600); //设置波特率
     Serial.println("----Starting----");
     pinMode(TrigPin,OUTPUT);
     pinMode(EchoPin,INPUT);
