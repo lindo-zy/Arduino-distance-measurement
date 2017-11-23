@@ -43,3 +43,6 @@ LCD头文件，LiquidCrystal_I2C.h和LiquidCrystal_I2C.cpp，在Arduino安装目
 * 实验数据说明  
 超声波的传播大体受三个因素影响，介质，温度，湿度。本次实验在空气中进行，地点上海，海拔几乎为海平面，不考虑压强影响。当温度在10度以下时，湿度对
 声音的传播影响极小，v=331.56+0.61*temperature；当温度大于10度时，湿度对声音传播速度影响明显，我们取10%到100%湿度的数据的平均值。最终实验结果精确到了以毫米为单位，小数点后四位。
+![实验数据截图](https://raw.githubusercontent.com/xiao-yi/Arduino-wifi-waves/master/data.png)
+---
+* 实验误差分析
