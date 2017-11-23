@@ -46,3 +46,8 @@ LCD头文件，LiquidCrystal_I2C.h和LiquidCrystal_I2C.cpp，在Arduino安装目
 ![实验数据截图](https://raw.githubusercontent.com/xiao-yi/Arduino-wifi-waves/master/data.png)
 ---
 * 实验误差分析
+
+----
+* 存在的问题  
+1.实验运行时，DHT11模块有可能出现NAN数值，或者无法计算出距离  
+2.未能把实验数据记录到本地txt中
