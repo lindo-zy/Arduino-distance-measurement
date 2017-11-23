@@ -1,12 +1,5 @@
-# 超声波 温度湿度 模块
-超声波模块为 HC-SR04  
-温湿度模块为 DHT11  
----
-超声波模块引脚为 TrigPin=2  EchoPin=3  
-温湿度模块引脚为 DHT11PIN=4  
-温湿度模块需要引入头文件，放在arduino的安装目录的libraries的Dht11文件夹下，头文件命名为dht11
-```c
-//头文件
+ 
+
 #ifndef dht11_h
 #define dht11_h
 
@@ -33,6 +26,3 @@ public:
 //
 // END OF FILE
 //
-
-
-```
