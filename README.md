@@ -1,4 +1,4 @@
-# Arduino-wifi-waves
+# Arduino-distance measurement
 基于Arduino的超声波测距项目  
 ---  
 * 设计思路：  
