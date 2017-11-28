@@ -50,4 +50,5 @@ LCD头文件，LiquidCrystal_I2C.h和LiquidCrystal_I2C.cpp，在Arduino安装目
 ----
 * 存在的问题  
 1.实验运行时，DHT11模块有可能出现NAN数值，或者无法计算出距离  
-2.未能把实验数据记录到本地txt中
+2.未能把实验数据记录到本地txt中  
+3.LCD灯如果显示有问题，先使用scan.c查看串口是否为0X27。
